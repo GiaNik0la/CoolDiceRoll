@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "954f6801-afb3-4aa8-a20f-d767f6b70a2d": {
+      "ProjectGuid": "954f6801-afb3-4aa8-a20f-d767f6b70a2d",
+      "DisplayName": "Dice",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
