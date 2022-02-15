@@ -3,4 +3,8 @@ Download this... you wont be depressed after this at all. pfff... what are you t
 
 # HowToBuild
 (dumbass)
-go to directory
+go to directory: "Dice"
+
+and run this command:
+
+dotnet run
