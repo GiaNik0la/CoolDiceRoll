@@ -16,7 +16,7 @@ namespace Dice
             {
                 if (string.IsNullOrEmpty(Jemala.Text) || string.IsNullOrEmpty(UserPrediction.Text))
                 {
-                    throw new TextBoxEmpty("why are you stupid, enter text you IDIOT!!!");
+                    throw new TextBoxEmpty("why are you so stupid, enter text you INBECILE!!! I ALWAYS HATED YOU!!!");
 
                 }
 
@@ -64,7 +64,7 @@ namespace Dice
 
         private void Loser()
         {
-            MessageBox.Show("YOU LOSE YOU STUPID!!! why did you download this game");
+            MessageBox.Show("YOU LOSE DUMBASS!!! why did you even download this game. fudging idiot");
 
         }
 
