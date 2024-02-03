@@ -1,5 +1,5 @@
 # CoolDiceRoll
-Download this... you wont be depressed after this at all. pfff... what are you talking about?
+90% of all therapists recommend this game!
 
 # HowToBuild
 (dumbass)
