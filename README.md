@@ -2,8 +2,10 @@
 90% of all therapists recommend this game!
 
 # HowToBuild
-go to directory: "Dice"
-
-and run this command:
-
+run this:
+```
+cd dice
 dotnet run
+```
+
+you won't regret it!
